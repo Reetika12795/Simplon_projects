@@ -1,0 +1,14 @@
+id_souscription, cd_client, cd_client_a_date, id_logement, id_contact, id_contrat, cd_contrat, id_conversation_pc, fg_client, fg_contrat
+fg_police, fg_primo_police, niveau, nb_creation, nb_creation_promesse, nb_creation_incomplet, nb_souscription, nb_demarre, nb_nouveau, nb_creation_client
+nb_souscription_client, nb_demarre_client, nb_nouveau_client, nb_creation_contrat, nb_souscription_contrat, nb_demarre_contrat, nb_nouveau_contrat, nb_creation_police, nb_souscription_police, nb_demarre_police
+nb_nouveau_police, nb_souscription_ajout_option, nb_ajout_auto, fg_remplacant, dt_creation, dt_tampon_poste, dt_accord_souscription, dth_souscription, dt_souscription, dt_demarrage
+dt_demarrage_reelle, dt_fin_periode_couv, dth_debut_communication, id_produit_contrat, cd_produit_contrat, grp_produit_contrat, lst_cd_produit_combine_contrat, univers_contrat, cd_assureur_contrat, lb_assureur_contrat
+type_habitat_produit, id_marque, cd_marque, cd_partenaire, lb_secteur_activite, lb_verticale, id_campagne_souscrit, cd_type_campagne_detail, type_campagne_macro, id_campagne_offre_mkt
+cd_campagne_bpc, cd_sous_campagne_bpc, fg_campagne_cible, dt_demarrage_campagne, id_push_mkt, fg_membre_push_cible_mkt, fg_reaffect_push_cible, dth_push, cd_canal_communication, lb_canal_communication
+media_communication, regroup_canal_type_campagne, type_acquis_upsell, fg_acquis, fg_contrat_acquis, fg_contrat_primo_acquis, fg_contrat_der_acquis, type_acquis_upsell_partenaire, fg_acquis_partenaire, fg_contrat_acquis_partenaire
+fg_vente_multiple_acquis_partenaire, cd_canal_reception, media_reception, media_com_recep, cd_canal_interaction, type_lien_interaction, activite_file_attente, sous_activite_file_attente, lb_type_interaction, lb_contact_list
+cd_canal_vente, lb_canal_vente, id_agent_vendeur, lb_departement_vendeur, type_plateau_hsv_vendeur, regroup_plateau_canal_reception, cd_type_paiement, lb_type_paiement, grp_paiement, version_contrat
+version_contrat_r2, version_contrat_r3, version_contrat_r5, version_police, cd_type_habitat_logement, lb_type_habitat_logement, cd_pays, cd_statut_occupant, lb_statut_occupant, accord_courrier_commercial_hsv
+accord_tel_commercial_hsv, accord_sms_commercial_hsv, accord_email_commercial_hsv, accord_sms_gestion_hsv, accord_email_gestion_hsv, accord_email_newsletter_hsv, accord_email_enquete_hsv, accord_tel_courrier_commercial_partenaire, accord_email_commercial_partenaire, fg_tel_fixe
+fg_tel_portable, fg_email, fg_envoi_doc_pre_contract, commentaires_fic, id_ordre_vente_externe, id_ref_vente_externe, id_vendeur_partenaire, cd_raison_incomplet, lb_raison_incomplet, cd_type_parcours_souscription
+lb_type_parcours_souscription, fg_rib_renseigne_pre_contrat, cd_etat_souscription, lb_etat_souscription, mt_ca_brut
